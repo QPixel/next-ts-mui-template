@@ -32,3 +32,13 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+*:Zone.Identifier
+
+.yarn/*
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
